@@ -55,3 +55,12 @@ They help designers and developers understand structure, navigation, and key fea
 By showing how elements fit together, wireframes reduce confusion and design errors.
 They also serve as a common visual reference for team discussions and feedback.
 This collaboration ensures alignment among designers, developers, and stakeholders throughout the project.
+
+# Wireframing in Practice
+In a booking management system project, designers created wireframes for the checkout process.
+During review, users found it confusing that payment options appeared before confirming booking details.
+This usability issue was identified early through wireframe testing, before any coding began.
+The design team rearranged the flow, placing booking confirmation before payment selection.
+Developers later implemented the corrected sequence, resulting in a smoother user experience.
+The final product became more intuitive, reducing booking errors and improving satisfaction.
+This scenario shows how wireframing helps detect and fix usability issues early, ensuring a user-friendly design.
