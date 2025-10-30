@@ -13,3 +13,12 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - Navigation: Shows how users will move through the site or application.
 - Content Placement: Indicates where text, images, and other content will be positioned.
 - Functionality: Outlines key functionalities and interactions.
+
+# Types of Wireframes
+- Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+**Differences between low-fidelity and high-fidelity wireframes**
+Low-fidelity wireframes are simple, rough sketches that focus on layout and functionality without detailed visuals, used early in the design process to plan structure and gather quick feedback, while high-fidelity wireframes are detailed, polished designs with colors, images, and real content, used later to finalize visuals and prepare for development.
+
+When they are used in the design process
