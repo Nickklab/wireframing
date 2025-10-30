@@ -42,3 +42,16 @@ Figma is one of the most popular and widely recommended tools for wireframing an
   
 **Why It’s Useful for Wireframing:**
 Figma makes it easy to start with low-fidelity wireframes and gradually refine them into high-fidelity designs within the same platform. Its intuitive interface, collaboration features, and flexibility make it ideal for both individual designers and large teams working on modern web or mobile app projects.
+
+# Benefits of Wireframing in Software Development
+- Guides the design process by defining structure and layout early.
+- Facilitates clear communication between designers, developers, and stakeholders.
+- Helps identify usability and design issues before coding begins.
+- Saves time and reduces development costs by preventing rework.
+
+**How wireframes guide the design process and facilitate communication among team members**: 
+Wireframes guide the design process by providing a clear visual layout of a system before development begins.
+They help designers and developers understand structure, navigation, and key features such as the checkout page in a booking system.
+By showing how elements fit together, wireframes reduce confusion and design errors.
+They also serve as a common visual reference for team discussions and feedback.
+This collaboration ensures alignment among designers, developers, and stakeholders throughout the project.
