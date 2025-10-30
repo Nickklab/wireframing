@@ -32,11 +32,13 @@ High-fidelity wireframes are used later in the design process to refine visual d
 - Balsamiq – Focuses on low-fidelity wireframes with a hand-drawn style.
 - Axure RP – Advanced tool for interactive and high-fidelity prototypes.
 
-Figma (Recommended Tool)
+**Figma (Recommended Tool)**
 Figma is one of the most popular and widely recommended tools for wireframing and UI/UX design. It’s a cloud-based design platform that allows multiple users to collaborate in real-time, making it ideal for teams.
-Key Features:
+
+**Key Features:**
 - Real-time collaboration: Multiple designers can edit the same file simultaneously.
 - Browser-based access: Works directly in a web browser—no installation required.
 - Component and style libraries: Allows for consistent design elements across screens.
-Why It’s Useful for Wireframing:
+  
+**Why It’s Useful for Wireframing:**
 Figma makes it easy to start with low-fidelity wireframes and gradually refine them into high-fidelity designs within the same platform. Its intuitive interface, collaboration features, and flexibility make it ideal for both individual designers and large teams working on modern web or mobile app projects.
