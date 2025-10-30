@@ -19,6 +19,8 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 
 **Differences between low-fidelity and high-fidelity wireframes**
-Low-fidelity wireframes are simple, rough sketches that focus on layout and functionality without detailed visuals, used early in the design process to plan structure and gather quick feedback, while high-fidelity wireframes are detailed, polished designs with colors, images, and real content, used later to finalize visuals and prepare for development.
+: Low-fidelity wireframes are simple, rough sketches that focus on layout and functionality without detailed visuals, used early in the design process to plan structure and gather quick feedback, while high-fidelity wireframes are detailed, polished designs with colors, images, and real content, used later to finalize visuals and prepare for development.
 
-When they are used in the design process
+**When they are used in the design process**:
+Low-fidelity wireframes are used early in the design process to explore ideas, plan structure, and gather quick feedback on layout and functionality.
+High-fidelity wireframes are used later in the design process to refine visual details, test user experience, and prepare the final design for development.
