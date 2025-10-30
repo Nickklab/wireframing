@@ -24,3 +24,19 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 **When they are used in the design process**:
 Low-fidelity wireframes are used early in the design process to explore ideas, plan structure, and gather quick feedback on layout and functionality.
 High-fidelity wireframes are used later in the design process to refine visual details, test user experience, and prepare the final design for development.
+
+# Popular Wireframing Tools
+- Figma – Cloud-based, collaborative design tool for wireframing and prototyping.
+- Adobe XD – Used for designing and prototyping user interfaces with interactive elements.
+- Sketch – macOS design tool known for its clean interface and vector-based design.
+- Balsamiq – Focuses on low-fidelity wireframes with a hand-drawn style.
+- Axure RP – Advanced tool for interactive and high-fidelity prototypes.
+
+Figma (Recommended Tool)
+Figma is one of the most popular and widely recommended tools for wireframing and UI/UX design. It’s a cloud-based design platform that allows multiple users to collaborate in real-time, making it ideal for teams.
+Key Features:
+- Real-time collaboration: Multiple designers can edit the same file simultaneously.
+- Browser-based access: Works directly in a web browser—no installation required.
+- Component and style libraries: Allows for consistent design elements across screens.
+Why It’s Useful for Wireframing:
+Figma makes it easy to start with low-fidelity wireframes and gradually refine them into high-fidelity designs within the same platform. Its intuitive interface, collaboration features, and flexibility make it ideal for both individual designers and large teams working on modern web or mobile app projects.
